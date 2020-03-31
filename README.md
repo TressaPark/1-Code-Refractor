@@ -1,4 +1,4 @@
-# tressahomework_1
+# 1 Code Refractor
 This is Tressa Park's First Homework Submission
 
 In the HTML file
